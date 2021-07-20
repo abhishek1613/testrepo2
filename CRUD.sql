@@ -37,6 +37,7 @@ INSERT INTO products0(product_name, brand_id, category_id, model_year, list_pric
 INSERT INTO products0(product_name, brand_id, category_id, model_year, list_price) VALUES('Electra Townie Original 7D EQ - 2016',1,2,2016,599.99);
 
 select * from products0;
+
 CREATE TABLE users(
    first_name VARCHAR(100)
    );
